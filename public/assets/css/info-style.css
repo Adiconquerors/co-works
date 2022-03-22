@@ -1,0 +1,409 @@
+@media (min-width: 320px) and (max-width: 541px) {
+  .left1 {
+    position: relative;
+    left: 63px;
+    bottom: 200px;
+    visibility: hidden;
+  }
+
+  .left2 {
+    position: relative;
+    left: 10px;
+    bottom: 180px;
+    visibility: hidden;
+  }
+
+  .left3 {
+    position: relative;
+    left: 70px;
+    bottom: 165px;
+    visibility: hidden;
+  }
+  .centerleft {
+    position: relative;
+    top: 50px;
+    left: 170px;
+    margin-left: -150px;
+  }
+  .centerleft-height {
+    height: 250px;
+  }
+  .centerleft-width {
+    width: 360px;
+    height: 360px;
+  }
+  .centerright {
+    position: relative;
+    bottom: 430px;
+    left: 300px;
+    visibility: hidden;
+  }
+
+  .rightlines {
+    position: relative;
+    left: 537px;
+    bottom: 580px;
+    visibility: hidden;
+  }
+  .right1 {
+    position: relative;
+    bottom: 759px;
+    left: 630px;
+    visibility: hidden;
+  }
+  .right2 {
+    position: relative;
+    bottom: 779px;
+    left: 685px;
+    visibility: hidden;
+  }
+  .right3 {
+    position: relative;
+    bottom: 793px;
+    left: 646px;
+    visibility: hidden;
+  }
+  .right4 {
+    position: relative;
+    bottom: 808px;
+    left: 685px;
+    visibility: hidden;
+  }
+  .right5 {
+    position: relative;
+    bottom: 828px;
+    left: 630px;
+    visibility: hidden;
+  }
+
+  .icon1 {
+    position: relative;
+    right: 227px;
+    bottom: 0;
+  }
+  .icon2 {
+    position: relative;
+    top: 60px;
+    right: 250px;
+  }
+  .icon3 {
+    position: relative;
+    left: 147px;
+    bottom: 89px;
+  }
+  .icon4 {
+    position: relative;
+    left: 120px;
+    bottom: 151px;
+  }
+
+  .info-height {
+    height: 500px;
+  }
+
+  .limitwidth {
+    width: 200px;
+  }
+  .limitwidthleftimage {
+    width: 100px;
+  }
+  .rightimgheight {
+    height: 55px;
+  }
+
+  .iconheight {
+    height: 50px;
+  }
+  .left-img-height {
+    height: 90px;
+  }
+
+  .centerright-height {
+    height: 185px;
+  }
+
+  .rightlines-height {
+    height: 150px;
+  }
+  .tooltip.bottom .tooltip-inner {
+    color: black;
+    font-size: 14px;
+    background-color: lightgoldenrodyellow;
+  }
+  .tooltip.right .tooltip-inner {
+    color: black;
+    font-size: 14px;
+    background-color: lightgoldenrodyellow;
+  }
+}
+
+@media (min-width: 541px) and (max-width: 1201px) {
+  .left1 {
+    position: relative;
+    left: 63px;
+    bottom: 200px;
+    visibility: hidden;
+  }
+
+  .left2 {
+    position: relative;
+    left: 10px;
+    bottom: 180px;
+    visibility: hidden;
+  }
+
+  .left3 {
+    position: relative;
+    left: 70px;
+    bottom: 165px;
+    visibility: hidden;
+  }
+  .centerleft {
+    position: relative;
+    top: 50px;
+    left: 170px;
+  }
+  .centerleft-width {
+    width: 360px;
+    height: 360px;
+  }
+  .centerright {
+    position: relative;
+    bottom: 430px;
+    left: 300px;
+    visibility: hidden;
+  }
+
+  .rightlines {
+    position: relative;
+    left: 537px;
+    bottom: 580px;
+    visibility: hidden;
+  }
+  .right1 {
+    position: relative;
+    bottom: 759px;
+    left: 630px;
+    visibility: hidden;
+  }
+  .right2 {
+    position: relative;
+    bottom: 779px;
+    left: 685px;
+    visibility: hidden;
+  }
+  .right3 {
+    position: relative;
+    bottom: 793px;
+    left: 646px;
+    visibility: hidden;
+  }
+  .right4 {
+    position: relative;
+    bottom: 808px;
+    left: 685px;
+    visibility: hidden;
+  }
+  .right5 {
+    position: relative;
+    bottom: 828px;
+    left: 630px;
+    visibility: hidden;
+  }
+
+  .icon1 {
+    position: relative;
+    left: 42px;
+    bottom: 195px;
+  }
+  .icon2 {
+    position: relative;
+    left: 31px;
+    bottom: 113px;
+  }
+  .icon3 {
+    position: relative;
+    left: 126px;
+    bottom: 195px;
+  }
+  .icon4 {
+    position: relative;
+    left: 14px;
+    bottom: 113px;
+  }
+
+  .info-height {
+    height: 500px;
+  }
+
+  .limitwidth {
+    width: 200px;
+  }
+  .limitwidthleftimage {
+    width: 100px;
+  }
+  .rightimgheight {
+    height: 55px;
+  }
+
+  .iconheight {
+    height: 60px;
+  }
+  .left-img-height {
+    height: 90px;
+  }
+
+  .centerright-height {
+    height: 185px;
+  }
+
+  .rightlines-height {
+    height: 150px;
+  }
+  .tooltip.bottom .tooltip-inner {
+    color: black;
+    font-size: 14px;
+    background-color: lightgoldenrodyellow;
+  }
+  .tooltip.right .tooltip-inner {
+    color: black;
+    font-size: 14px;
+    background-color: lightgoldenrodyellow;
+  }
+}
+
+@media (min-width: 1201px) {
+  .left1 {
+    position: relative;
+    left: 80px;
+    bottom: 260px;
+    visibility: visible;
+  }
+
+  .left2 {
+    position: relative;
+    left: 10px;
+    bottom: 230px;
+    visibility: visible;
+  }
+
+  .left3 {
+    position: relative;
+    left: 89px;
+    bottom: 212px;
+    visibility: visible;
+  }
+  .centerleft {
+    position: relative;
+    top: 100px;
+    left: 150px;
+  }
+  .centerright {
+    position: relative;
+    bottom: 568px;
+    left: 428px;
+    visibility: visible;
+  }
+
+  .rightlines {
+    position: relative;
+    left: 710px;
+    bottom: 760px;
+    visibility: visible;
+  }
+  .right1 {
+    position: relative;
+    bottom: 1000px;
+    left: 830px;
+    visibility: visible;
+  }
+  .right2 {
+    position: relative;
+    bottom: 1020px;
+    left: 900px;
+    visibility: visible;
+  }
+  .right3 {
+    position: relative;
+    bottom: 1035px;
+    left: 849px;
+    visibility: visible;
+  }
+  .right4 {
+    position: relative;
+    bottom: 1054px;
+    left: 905px;
+    visibility: visible;
+  }
+  .right5 {
+    position: relative;
+    bottom: 1078px;
+    left: 830px;
+    visibility: visible;
+  }
+
+  .icon1 {
+    position: relative;
+    right: 260px;
+    bottom: 0px;
+  }
+  .icon2 {
+    position: relative;
+    right: 290px;
+    top: 65px;
+  }
+  .icon3 {
+    position: relative;
+    right: 195px;
+    bottom: 0px;
+  }
+  .icon4 {
+    position: relative;
+    right: 280px;
+    top: 65px;
+  }
+
+  .info-height {
+    height: 500px;
+  }
+
+  .limitwidth {
+    width: 200px;
+  }
+  .limitwidthleftimage {
+    width: 100px;
+  }
+  .rightimgheight {
+    height: 70px;
+  }
+
+  .iconheight {
+    height: 50px;
+  }
+  .left-img-height {
+    height: 130px;
+  }
+
+  .centerleft-height {
+    height: 290px;
+  }
+
+  .centerright-height {
+    height: 220px;
+  }
+
+  .rightlines-height {
+    height: 200px;
+  }
+
+  .tooltip .tooltip-inner {
+    color: black;
+    font-size: 14px;
+    background-color: lightgoldenrodyellow;
+  }
+  .tooltip.right .tooltip-inner {
+    color: black;
+    font-size: 14px;
+    background-color: lightgoldenrodyellow;
+  }
+}
